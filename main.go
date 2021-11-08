@@ -9,7 +9,7 @@ type ContaCorrente struct {
 	saldo         float64
 }
 
-//inserir posteriormente comentarios
+//inserir posteriormente comentarios aqui
 func main() {
 	contaDoGuilherme := ContaCorrente{titular: "Guilherme",
 		numeroAgencia: 589, numeroConta: 123456, saldo: 125.5}
